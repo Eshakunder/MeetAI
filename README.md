@@ -1,4 +1,4 @@
-# Gen AI-Powered Business Growth Assistant (Ongoing Project)  
+# Gen AI-Powered Business Growth Assistant 
 
 An intelligent system designed to **unlock hidden business opportunities** by analyzing client-company interactions. This project addresses the common challenge that modern businesses often **miss growth opportunities due to ineffective client interactions**.  
 
@@ -23,8 +23,8 @@ An intelligent system designed to **unlock hidden business opportunities** by an
 ## Tech Stack
 
 ### Backend & AI
-- Python, PyTorch/TensorFlow, Hugging Face Transformers  
-- ASR systems (e.g., Whisper, DeepSpeech)  
+- Python, PyTorch, Hugging Face Transformers  
+- ASR systems 
 
 ### Frontend
 - **React + Vite**  
@@ -37,14 +37,3 @@ Currently, two official plugins are available:
 #### Expanding the ESLint configuration
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-### Data & Pipeline
-- PostgreSQL, Pandas, NumPy  
-
----
-
-## Future Work
-- Integrate real-time video analysis for live client meetings.  
-- Enhance recommendation engine using reinforcement learning.  
-- Expand multi-language support for international clients.  
-
----
